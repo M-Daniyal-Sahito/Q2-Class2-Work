@@ -1,0 +1,26 @@
+.bg{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+span{
+    cursor: pointer;
+    color: black;
+}
+.h1bg{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.con{
+    background-color: black;
+    text-align: left;
+}
+.foot{
+    color: black;
+    font-weight: bold;
+}
